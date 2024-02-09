@@ -50,4 +50,4 @@ Desde então, mergulhei de cabeça no mundo do desenvolvimento de software, nunc
 </0l>
 </details>
 
-#### [[🇺🇸]] [[🇪🇸]] [[🇨🇳]]
+#### [🇺🇸](english.md) [🇪🇸](spanish.md) [🇨🇳](chinese.md)
