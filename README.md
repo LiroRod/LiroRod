@@ -25,7 +25,7 @@ Eu sou um desenvolvedor full-stack apaixonado por compiladores e Computational t
 ---
 ### 📊 Liro's Data
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Liro_Rod" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LiroRod" />
 <br />
 
 ---
