@@ -41,7 +41,7 @@ Desde então, mergulhei de cabeça no mundo do desenvolvimento de software, nunc
 </details>
 
 <details>
- <summary><img src="https://github.com/LiroRod/LiroRod/assets/77134661/596f6720-ffac-4b0a-882c-04f3ff2760f8" " alt="waving-memoji" width="25" height="25" style="float:right;" ></img><h3>Curiosidades Inúteis.</h3></summary>
+ <summary><img src="https://github.com/LiroRod/LiroRod/assets/77134661/596f6720-ffac-4b0a-882c-04f3ff2760f8" " alt="waving-memoji" width="25" height="25" style="float:right;" ></img><h3>Curiosidades</h3></summary>
 <ol>
   <li>Aprendi a "programar" com 14 anos;</li>
   <li>Morei 6 meses em Londres, UK 🇬🇧 e 2 anos e meio em Miami, FL 🇺🇸;</li>
