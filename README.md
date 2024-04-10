@@ -28,7 +28,7 @@ Eu sou um desenvolvedor full-stack apaixonado por compiladores e Computational t
 ---
 
 ### WakaTime Stats _(does not represent 100% the reality)_
-![]([https://wakatime.com/share/@LiroRod/2cc3d748-a268-4467-be0a-c1dfb0b14042.svg](https://wakatime.com/share/@LiroRod/2c9cfd75-2df1-41e2-b4a1-f0d95825ffdb.svg))
+![](https://wakatime.com/share/@LiroRod/2c9cfd75-2df1-41e2-b4a1-f0d95825ffdb.svg)
 
 ---
 
