@@ -23,13 +23,12 @@ Eu sou um desenvolvedor full-stack apaixonado por compiladores e Computational t
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiroRod&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiroRod&theme=dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiroRod&theme=dark)
-
 ---
 
 ### WakaTime Stats _(does not represent 100% the reality)_
 
 <img src="https://wakatime.com/share/@LiroRod/2c9cfd75-2df1-41e2-b4a1-f0d95825ffdb.svg" alt="drawing" width="700"/>
+
 
 ---
 
