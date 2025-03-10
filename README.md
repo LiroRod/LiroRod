@@ -1,7 +1,7 @@
 # Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) eu sou o Murilo ( Liro )  Rodrigues 
 **`Junior Software Developer`** **Alternative languages:** [🇺🇸](english.md) [🇪🇸](spanish.md) [🇨🇳](chinese.md)
 
-Eu sou um desenvolvedor full-stack apaixonado por compiladores e systems programming, faço projetos a 3 anos para clientes do Brasil, Estados Unidos e Leste Europeu.
+Eu sou um desenvolvedor full-stack apaixonado por compiladores e systems programming, faço projetos a 5 anos para clientes do Brasil, Estados Unidos e Leste Europeu. Tendo experiência formal de desenvolvimento em uma empresa de geolocalização de São Paulo - Brasil, e uma plataforma de ensino em Tel Aviv.
 
 ### 🛠️ Languages and Tools
 
